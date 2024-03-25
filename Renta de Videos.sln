@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{207749F1-C24A-41DC-AE0D-E34B3C6FA97C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{6B844591-D63B-474D-84F0-DFF3E570B740}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentacion\Presentacion.csproj", "{367B4A37-9A13-4F3A-82A5-FAC65D6DF72E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207749F1-C24A-41DC-AE0D-E34B3C6FA97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207749F1-C24A-41DC-AE0D-E34B3C6FA97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207749F1-C24A-41DC-AE0D-E34B3C6FA97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207749F1-C24A-41DC-AE0D-E34B3C6FA97C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B844591-D63B-474D-84F0-DFF3E570B740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B844591-D63B-474D-84F0-DFF3E570B740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B844591-D63B-474D-84F0-DFF3E570B740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B844591-D63B-474D-84F0-DFF3E570B740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{367B4A37-9A13-4F3A-82A5-FAC65D6DF72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367B4A37-9A13-4F3A-82A5-FAC65D6DF72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367B4A37-9A13-4F3A-82A5-FAC65D6DF72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367B4A37-9A13-4F3A-82A5-FAC65D6DF72E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D8D9F4E-04DA-4E48-B2B7-2C83E0309983}
+	EndGlobalSection
+EndGlobal
